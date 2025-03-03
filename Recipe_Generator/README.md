@@ -6,3 +6,5 @@ the model used for this project is the [**T5-small**](https://huggingface.co/goo
 - **Datasets used**:
 the datasets used for the training of the model are **RAW_recipes.csv** and **RAW_interactions.csv**, you can find them [**here**](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions)
 - **Article**: description and analysis of the project are in [**this**](https://github.com/moroa01/Projects/blob/main/Recipe_Generator/Article.pdf) PDF file
+
+The final model can be found [**here**](https://github.com/moroa01/Projects/blob/main/Recipe_Generator/Article.pdf)
