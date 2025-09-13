@@ -13,4 +13,5 @@ Three different CNNs were trained and tested:
 
 ## References
 - [1] Noel Codella, Veronica Rotemberg, Philipp Tschandl, M. Emre Celebi, Stephen Dusza, David Gutman, Brian Helba, Aadi Kalloo, Konstantinos Liopyris, Michael Marchetti, Harald Kittler, Allan Halpern: *Skin Lesion Analysis Toward Melanoma Detection 2018: A Challenge Hosted by the International Skin Imaging Collaboration (ISIC)*, 2018; https://arxiv.org/abs/1902.03368  
-- [2] (Include only if HAM10000 was really used)
+- [2] https://keras.io/api/applications/inceptionv3/
+- [3] https://keras.io/api/applications/efficientnet/
