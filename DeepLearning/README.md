@@ -7,10 +7,9 @@ the dataset used for the training of the models is the **ISIC Challenge 2018**, 
 
 ## Models
 Three different CNNs were trained and tested:
-- **Baseline CNN** (custom simple architecture)  
-- **InceptionV3** (transfer learning)  
-- **EfficientNetB3** (transfer learning)
-Trained models are available [**here**](https://github.com/moroa01/Projects/DeepLearning/models).
+- **Baseline CNN** (custom simple architecture), [**link**](https://huggingface.co/moro01525/MelanomaClassificationFromScratch)
+- **InceptionV3** (transfer learning), [**link**](https://huggingface.co/moro01525/MelanomaClassificationInception/tree/main)
+- **EfficientNetB3** (transfer learning), [**link**](https://huggingface.co/moro01525/MelanomaClassificationEfficientNet/tree/main)
 
 ## References
 - [1] Noel Codella, Veronica Rotemberg, Philipp Tschandl, M. Emre Celebi, Stephen Dusza, David Gutman, Brian Helba, Aadi Kalloo, Konstantinos Liopyris, Michael Marchetti, Harald Kittler, Allan Halpern: *Skin Lesion Analysis Toward Melanoma Detection 2018: A Challenge Hosted by the International Skin Imaging Collaboration (ISIC)*, 2018; https://arxiv.org/abs/1902.03368  
