@@ -3,7 +3,7 @@
 #### The goal is to develop and evaluate different Convolutional Neural Networks (CNNs) for the task of **binary classification of melanoma (melanoma vs. benign)**.
 - **Dataset used**:
 the dataset used for the training of the models is the **ISIC Challenge 2018**, you can find it [**here**](https://challenge.isic-archive.com/data/#2018)
-- **Presentation**: description and analysis of the project are in [**this**](https://github.com/moroa01/Projects/DeepLearning/Presentation.pdf) PDF file
+- **Presentation**: description and analysis of the project are in [**this**](https://github.com/moroa01/Projects/blob/main/DeepLearning/Presentation.pdf) PDF file
 
 ## Models
 Three different CNNs were trained and tested:
