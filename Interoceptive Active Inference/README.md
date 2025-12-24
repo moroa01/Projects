@@ -4,6 +4,10 @@
 **Code**: the implementation and simulations are [**here**](https://github.com/moroa01/Projects/tree/main/Interoceptive%20Active%20Inference/Code) <br>
 **Article**: description and analysis of the project are in [**this**](https://github.com/moroa01/Projects/tree/main/Interoceptive%20Active%20Inference/Article.pdf) PDF file
 
+### The following images show the results of the simulation
+![First simulation](images/simul_1a.png)
+![First simulation](images/simul_1b.png)
+
 ## References
 - [1] Micah Allen, Andrew Levy, Thomas Parr, Karl J. Friston: *In the Body’s Eye: The computational anatomy of interoceptive inference*, 2022; https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010490
 - [2] Conor Heins, Beren Millidge, Daphne Demekas, Brennan Klein, Karl Friston, Iain D. Couzin and Alexander Tschantz: *pymdp: A Python library for active inference in discrete state spaces*, 2022; https://doi.org/10.21105/joss.04098
