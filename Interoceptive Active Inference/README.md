@@ -5,8 +5,16 @@
 **Article**: description and analysis of the project are in [**this**](https://github.com/moroa01/Projects/tree/main/Interoceptive%20Active%20Inference/Article.pdf) PDF file
 
 ### The following images show the results of the simulation
-![First simulation](images/simul_1a.png)
-![First simulation](images/simul_1b.png)
+<p align="center">
+  <img src="images/simul_1a" width="45%" />
+  <img src="images/simul_1b.png" width="45%" />
+</p>
+<p align="center">
+  <img src="images/simul_2" width="100%" />
+</p>
+<p align="center">
+  <img src="images/simul_3" width="100%" />
+</p>
 
 ## References
 - [1] Micah Allen, Andrew Levy, Thomas Parr, Karl J. Friston: *In the Body’s Eye: The computational anatomy of interoceptive inference*, 2022; https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010490
