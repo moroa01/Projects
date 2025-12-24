@@ -6,14 +6,14 @@
 
 ### The following images show the results of the simulation
 <p align="center">
-  <img src="images/simul_1a" width="45%" />
+  <img src="images/simul_1a.png" width="45%" />
   <img src="images/simul_1b.png" width="45%" />
 </p>
 <p align="center">
-  <img src="images/simul_2" width="100%" />
+  <img src="images/simul_2.png" width="100%" />
 </p>
 <p align="center">
-  <img src="images/simul_3" width="100%" />
+  <img src="images/simul_3.png" width="100%" />
 </p>
 
 ## References
