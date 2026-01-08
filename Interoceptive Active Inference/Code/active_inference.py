@@ -70,7 +70,7 @@ def create_agent(alpha=0.9, beta=0.9, zetaI=0.9, zetaE=0.9, chi=5.0):
     ], dtype=float)
 
     # ===== C MATRIX =====
-    # Here is the key: preferences on the 4 COMBINED outcomes
+    # Preferences on the 4 COMBINED outcomes
     C = utils.obj_array(1)
     C[0] = np.array([
         chi,      # Flower + Relaxed  (preferred)
@@ -334,4 +334,5 @@ def plot_simulation_results(battiti, visione, osservazioni, aspettativa, azioni,
         ax[5].text(i, 0.43 - 0.2, f"{v[1]:.2f}", ha="center", va="bottom")
 
     plt.tight_layout()
+
     plt.show()
