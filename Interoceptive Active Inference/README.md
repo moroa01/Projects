@@ -1,6 +1,6 @@
 # Affective Computing & Natural Interaction project: Interoceptive Active Inference to Simulate Cardiac–Perceptual Coupling
 ### This is a project for the [Affective Computing](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2025/affective-computing) and [Natural Interaction](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2025/natural-interaction) courses of master's degree in Computer Science at the Università degli Studi di Milano
-#### This project implements the active inference model presented by Micah Allen, integrating exteroceptive and interoceptive signals to show how learned preference structures shape emotional interpretations and actions from identical physiological states.
+#### This project implements the active inference model presented by Micah Allen and Karl Friston, integrating exteroceptive and interoceptive signals to show how learned preference structures shape emotional interpretations and actions from identical physiological states.
 **Code**: the implementation and simulations are [**here**](https://github.com/moroa01/Projects/tree/main/Interoceptive%20Active%20Inference/Code), [**simulations**](https://github.com/moroa01/Projects/blob/main/Interoceptive%20Active%20Inference/Code/Simulations.ipynb)<br>
 **Article**: description and analysis of the project are in [**this**](https://github.com/moroa01/Projects/tree/main/Interoceptive%20Active%20Inference/Article.pdf) PDF file
 
