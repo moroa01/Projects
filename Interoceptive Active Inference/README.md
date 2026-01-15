@@ -6,7 +6,7 @@
 
 ### The following images show the results of the simulation
 <p align="center">
-  <img src="images/simul_1a.png" width="40%" />
+  <img src="images/simul_1A.png" width="40%" />
   <img src="images/simul_1b.png" width="45%" />
 </p>
 <p align="center">
