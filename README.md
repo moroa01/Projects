@@ -10,22 +10,22 @@ The main objective of this repository is to document practical implementations, 
 
 # Repository Structure
 
-## 1. BinaryTreeClassifier
+## 1. Decision Tree
 ### Statistical Methods for Machine Learning — Tree Predictors for Binary Classification
 
 Implementation of a **Decision Tree classifier from scratch** for binary classification tasks.
 
-## 2. Recipe_Generator
+## 2. Natural Language Processing
 ### Hurry up, I'm hungry!
 
 Natural Language Processing project focused on **automatic recipe generation** using a fine-tuned **T5 Transformer** model.
 
-## 3. BiomedicalSignalProcessing
+## 3. Biomedical Signal Processing
 ### ECG Signal Decomposition using Fourier Analysis
 
 Implementation of an ECG signal decomposition framework based on the **Discrete Fourier Series (DFS)**.
 
-## 4. DeepLearning
+## 4. Deep Learning
 ### Binary Classification of Melanoma using CNNs
 
 Development and evaluation of multiple **Convolutional Neural Networks (CNNs)** for melanoma classification.
@@ -57,11 +57,11 @@ All projects were developed as part of coursework for the Master's Degree in Com
 
 Courses include:
 - Statistical Methods for Machine Learning
+- Natural Language Processing
 - Biomedical Signal Processing
 - Deep Learning with Applications
 - Affective Computing
 - Natural Interaction
-- Natural Language Processing
 
 ---
 
