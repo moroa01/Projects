@@ -30,7 +30,7 @@ Implementation of an ECG signal decomposition framework based on the **Discrete 
 
 Development and evaluation of multiple **Convolutional Neural Networks (CNNs)** for melanoma classification.
 
-## 5. [Interoceptive Active Inference](./Interoceptive Active Inference)
+## 5. [Interoceptive Active Inference](./Interoceptive%20Active%20Inference)
 ### Interoceptive Active Inference to Simulate Cardiac–Perceptual Coupling
 
 Implementation of an **Active Inference** model inspired by the work of Micah Allen and Karl Friston.
